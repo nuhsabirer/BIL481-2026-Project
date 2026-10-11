@@ -1,9 +1,4 @@
 # BIL481 — Fall 2026 Term Project
-
-Replace the example group name and member details below with your group's information.
-
-[Project Assignment 1 description](f26_assignment_1.pdf)
-
 ## Group Name
 
 **CodeShield**
