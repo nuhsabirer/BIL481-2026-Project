@@ -6,16 +6,14 @@ Replace the example group name and member details below with your group's inform
 
 ## Group Name
 
-**Group-ABC** *(example)*
+**CodeShield**
 
 ## Group Members
 
-List all 4–5 group members. The first row is an example; replace it with a member's details. Remove the fifth row if your group has four members.
-
 | Full Name | GitHub Username | Email | School Number |
 | --- | --- | --- | --- |
-| Ömer Kılınç *(example)* | @CPPpriest | omerkilinc@etu.edu.tr | 261111011 |
-| Member 2 | @github-username | email@etu.edu.tr | School number |
-| Member 3 | @github-username | email@etu.edu.tr | School number |
-| Member 4 | @github-username | email@etu.edu.tr | School number |
-| Member 5 | @github-username | email@etu.edu.tr | School number |
+| Nuh Yusuf Sabırer | @nuhsabirer | nsabirer@etu.edu.tr | 231104087 |
+| Kaan Zor | @KaanPasha1707 | kzor@etu.edu.tr | 241101048 |
+| Ömer Ali Sarıcalar | @osaricalar | osaricalar@etu.edu.tr | 241101024 |
+| Yusuf Emir Coşar | @YusufEmirCosar | ycosar@etu.edu.tr | 241101024 |
+| Ramazan Emir Keleş | @remirkeles | rkeles@etu.edu.tr | 241101053 |
